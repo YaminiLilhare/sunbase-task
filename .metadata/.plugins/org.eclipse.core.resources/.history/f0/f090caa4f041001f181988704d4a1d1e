@@ -1,0 +1,5 @@
+package com.sunbase.service;
+
+public interface CustomerService {
+
+}
